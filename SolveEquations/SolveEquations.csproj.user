@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\FrmSolucionAplicacionTwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmSolucionAplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmModificador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmProblemaAplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmEcuacionCuadratica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmFactorizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmSistemas2x2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
