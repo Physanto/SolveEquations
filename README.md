@@ -77,6 +77,6 @@ Este proyecto es una aplicación desarrollada en **C#** que permite resolver dif
 ---
 
 ## Autores
-Manuel David Escobar Figueroa -> https://github.com/Physanto
-Marlon Stiven Vargas Muñoz -> https://github.com/marlon890
-Keiner Rene Guamanga
+- Manuel David Escobar Figueroa -> https://github.com/Physanto
+- Marlon Stiven Vargas Muñoz -> https://github.com/marlon890
+- Keiner Rene Guamanga
